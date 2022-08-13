@@ -1,7 +1,7 @@
-baseURL: "/"
+baseURL: "https://laurits.me"
 title: "Laurits Fredsgaard Larsen"
 theme: PaperMod
-publishdir: docs
+publishdir: public
 
 enableRobotsTXT: true
 
