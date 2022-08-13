@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Laurits Fredsgaard Larsen</title>
+    <link>/</link>
+    <description>Recent content on Laurits Fredsgaard Larsen</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laurits Fredsgaard Larsen</title>
+      <link>/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>About Me I currently study Machine Learning and Data Science at University of Copenhagen. 💻
+From my MSc in Molecular Biomedicine, I have lots of practical experience working with protiens, cells and viruses. 👨🏻‍🔬
+Research Interest I am interested in all things Machine Learning in Life Science, but I am particularly keen on developing models to support protein research.
+Publications  Fredsgaard L, [&amp;hellip;]: Head-to-Head Comparison of Modular Vaccines Developed Using Different Capsid Virus-Like Particle Backbones and Antigen Conjugation System.</description>
+    </item>
+    
+  </channel>
+</rss>

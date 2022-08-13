@@ -1,0 +1,55 @@
+baseURL: "/"
+title: "Laurits Fredsgaard Larsen"
+theme: PaperMod
+publishdir: docs
+
+enableRobotsTXT: true
+
+
+#minify:
+  #disableXML: true
+  #minifyOutput: true
+
+
+params:
+  #assets:
+    #favicon: "<link / absolute url>"
+    #favicon16x16:  "<link / absolute url>"
+    #favicon32x32:  "<link / absolute url>"
+    #apple_touch_icon:  "<link / absolute url>"
+    #safari_pinned_tab:  "<link / absolute url>"
+
+
+
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Laurits Fredsgaard Larsen"
+    subtitle: Doing research on proteins with machine learning
+    imageUrl: "LauritsProfile.jpg"
+    imageWidth: 200
+    imageHeight: 200
+    imageTitle: "Laurits Fredsgaard Larsen"
+    buttons:
+      - name: CV
+        url: cv
+      #- name: Hiking
+        #url: hiking
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/lauritsf/"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/lauritsfredsgaard/"
+    - name: orcid
+      url: "https://orcid.org/0000-0003-3891-3414"
+
+menu:
+  main:
+    - identifier: cv
+      name: CV
+      url: "/cv"
+      weight: 10
+    - identifier: lauritz
+      name: Looking for Lauritz Hilsøe?
+      url: https://lauritz.me
+      weight: 30
