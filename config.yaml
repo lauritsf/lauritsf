@@ -24,7 +24,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Laurits Fredsgaard Larsen"
-    subtitle: Doing research on proteins with machine learning
+    subtitle: "Exploring the intersection of Machine Learning, Data Science, and Molecular Biomedicine: Insights and Innovations"
     imageUrl: "LauritsProfile.jpg"
     imageWidth: 200
     imageHeight: 200
