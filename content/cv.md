@@ -5,7 +5,7 @@ draft: false
 ---
 
 
-A passionate and results-oriented **Machine Learning & Data Science** student with a solid foundation in **Molecular Biomedicine**. I excel in **bioinformatics**, **research**, and software development, and am proficient in **Python**, **R**, and **C++** programming languages. My skills include analyzing **complex data** and implementing cutting-edge machine learning algorithms for a wide range of applications in the **life sciences** field.
+A passionate and results-oriented **Machine Learning & Data Science** professional with a solid foundation in **Molecular Biomedicine**. I excel in **bioinformatics**, **research**, and software development, and am proficient in **Python**, **R**, and **C++** programming languages. My skills include analyzing **complex data** and implementing cutting-edge machine learning algorithms for a wide range of applications in the **life sciences** field.
 
 ## Education
 ### 2020–2023 BSc Machine Learning & Data Science, University of Copenhagen
