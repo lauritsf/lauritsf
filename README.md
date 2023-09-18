@@ -1,7 +1,8 @@
 # Laurits Fredsgaard Larsen
 
-👋 Hi there! I'm a **Machine Learning & Data Science** professional with a background in **Molecular Biomedicine**. I have experience analyzing complex data and implementing cutting-edge machine learning algorithms for life sciences applications.
+Hi, I'm Laurits. Currently, I'm diving deep into **Uncertainty Quantification for Graph Neural Networks** as a PhD student at DTU Compute, Technical University of Denmark. My research revolves around Bayesian Neural Networks and their applications in Molecular Discovery.
 
-Check out my personal website [laurits.me](https://laurits.me/) for more information about my experience and qualifications.
+Previously, I've worked extensively in **Molecular Biomedicine**, and I'm keen on leveraging this background to bridge the gap between biomedicine and advanced computation.
 
-Feel free to reach out if you have any questions or opportunities to discuss!
+Got a question or an opportunity in mind? I'm always open for a chat.
+
