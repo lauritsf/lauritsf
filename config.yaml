@@ -5,26 +5,16 @@ publishdir: public
 
 enableRobotsTXT: true
 
-
-#minify:
-  #disableXML: true
-  #minifyOutput: true
-
-
 params:
-  #assets:
-    #favicon: "<link / absolute url>"
-    #favicon16x16:  "<link / absolute url>"
-    #favicon32x32:  "<link / absolute url>"
-    #apple_touch_icon:  "<link / absolute url>"
-    #safari_pinned_tab:  "<link / absolute url>"
-
-
-
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Laurits Fredsgaard Larsen"
-    subtitle: "Exploring the intersection of Machine Learning, Data Science, and Molecular Biomedicine: Insights and Innovations"
+    subtitle: >
+      PhD Candidate in Applied Mathematics and Computer Science at the Technical University of Denmark (DTU), 
+      focusing on Bayesian Neural Networks for Molecular Discovery.
+
+      Formerly engaged in vaccine development research,
+      I am now researching better uncertainty quantification for graph neural networks.
     imageUrl: "LauritsProfile.jpg"
     imageWidth: 200
     imageHeight: 200
@@ -32,8 +22,8 @@ params:
     buttons:
       - name: CV
         url: cv
-      #- name: Hiking
-        #url: hiking
+      - name: Research
+        url: research
 
   socialIcons:
     - name: github
@@ -49,7 +39,7 @@ menu:
       name: CV
       url: "/cv"
       weight: 10
-    - identifier: lauritz
-      name: Looking for Lauritz Hilsøe?
-      url: https://lauritz.me
-      weight: 30
+    - identifier: research
+      name: Research
+      url: "/research"
+      weight: 20
