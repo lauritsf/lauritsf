@@ -12,9 +12,6 @@ params:
     subtitle: >
       PhD Candidate in Applied Mathematics and Computer Science at the Technical University of Denmark (DTU), 
       focusing on Bayesian Neural Networks for Molecular Discovery.
-
-      Formerly engaged in vaccine development research,
-      I am now researching better uncertainty quantification for graph neural networks.
     imageUrl: "LauritsProfile.jpg"
     imageWidth: 200
     imageHeight: 200
