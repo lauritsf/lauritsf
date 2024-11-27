@@ -1,42 +1,23 @@
-baseURL: "https://laurits.me/"
+relativeURLs: true
 title: "Laurits Fredsgaard Larsen"
-theme: PaperMod
-publishdir: public
+theme: "academimal"
+sectionPagesMenu: "main"
+defaultContentLanguage: "en"
 
-enableRobotsTXT: true
+author:
+  name: "Laurits Fredsgaard Larsen"
+  homepage: "https://laurits.me/"
 
 params:
-  profileMode:
-    enabled: true # needs to be explicitly set
-    title: "Laurits Fredsgaard Larsen"
-    subtitle: >
-      PhD Candidate in Applied Mathematics and Computer Science at the Technical University of Denmark (DTU), 
-      focusing on Bayesian Neural Networks for Molecular Discovery.
-    imageUrl: "LauritsProfile.jpg"
-    imageWidth: 200
-    imageHeight: 200
-    imageTitle: "Laurits Fredsgaard Larsen"
-    buttons:
-      - name: CV
-        url: cv
-      - name: Research
-        url: research
+  shortbio: "PhD student in Applied Mathematics and Computer Science at DTU"
+  ORCID: "0000-0003-3891-3414"
+  GitHub: "lauritsf"
+  GoogleScholar: "HjUEfBUAAAAJ"
+  LinkedIn: "lauritsfredsgaard"
 
-  socialIcons:
-    - name: github
-      url: "https://github.com/lauritsf/"
-    - name: linkedin
-      url: "https://www.linkedin.com/in/lauritsfredsgaard/"
-    - name: orcid
-      url: "https://orcid.org/0000-0003-3891-3414"
-
-menu:
-  main:
-    - identifier: cv
-      name: CV
-      url: "/cv"
-      weight: 10
-    - identifier: research
-      name: Research
-      url: "/research"
-      weight: 20
+markup:
+  highlight:
+    style: "solarized-dark"
+  goldmark:
+    renderer:
+      unsafe: true
