@@ -20,6 +20,8 @@ My research focuses on **uncertainty quantification for graph neural networks (G
 
 ### Background
 
-While I'm now focused on machine learning, I have a diverse background spanning both hands-on experimental work and computational analysis. I hold degrees in both *Molecular Biomedicine* and *Machine Learning and Data Science* from the University of Copenhagen. I've gained experience in molecular biology, working with viruses, vaccines, and protein engineering.
+I have a dual background in life science and computer science, holding degrees in both *Molecular Biomedicine* and *Machine Learning & Data Science* from the University of Copenhagen.
 
-Complementing my experimental skills, I worked as a bioinformatician at [LEO Pharma](https://www.leo-pharma.com/) during my studies, where I developed data analysis pipelines and built scalable systems for biological datasets, including experience with omics data and public APIs.
+My experimental research focused on virology and vaccine design. I studied the Hepatitis C Virus at [Osaka University's RIMD](https://www.biken.osaka-u.ac.jp/en/) under [Yoshiharu Matsuura](https://www.biken.osaka-u.ac.jp/en/researchers/detail/6) (2017) and for my bachelor's project at Hvidovre Hospital with [Jens Bukh](https://scholar.google.dk/citations?user=ebaj2BQAAAAJ) (2018). Subsequently, my master's thesis (2018-2020) in [Adam Sander's lab](https://cmp.ku.dk/research/vlpvac-team/) centered on cVLP-based vaccines, where I supported the preclinical development of the ABNCoV2 COVID-19 vaccine, which has since proven highly successful in clinical trials.
+
+My transition towards computational work includes my role as a student bioinformatician at [LEO Pharma](https://www.leo-pharma.com/), where I built data analysis pipelines for omics data. For my final project in Machine Learning (2022-2023), I had the opportunity to work with [Wouter Boomsma](https://scholar.google.dk/citations?user=EwqU_jsAAAAJ) on deep learning models for protein sequences and structures.
