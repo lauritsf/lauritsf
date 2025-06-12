@@ -20,4 +20,4 @@ markup:
     style: "solarized-dark"
   goldmark:
     renderer:
-      unsafe: true
+      unsafe: false

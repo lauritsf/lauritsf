@@ -1,4 +1,4 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
+# Deploy Hugo site to GitHub Pages
 name: Deploy Hugo site to Pages
 
 on:
@@ -20,34 +20,48 @@ concurrency:
   group: "pages"
   cancel-in-progress: true
 
-# Default to bash
-defaults:
-  run:
-    shell: bash
+# Define a predictable cache directory to be used across steps
+env:
+  HUGO_CACHEDIR: /tmp/hugo_cache
 
 jobs:
   # Build job
   build:
     runs-on: ubuntu-latest
-    env:
-      HUGO_VERSION: 0.99.0
     steps:
-      - name: Install Hugo CLI
-        run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Checkout
         uses: actions/checkout@v4
         with:
           submodules: recursive
+
+      - name: Read Hugo version
+        id: hugo_version
+        run: echo "HUGO_VERSION=$(cat .hugo-version)" >> $GITHUB_OUTPUT
+
+      - name: Cache Hugo Modules
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.HUGO_CACHEDIR }}
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: ${{ steps.hugo_version.outputs.HUGO_VERSION }}
+          extended: true
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
       - name: Build with Hugo
         run: |
           hugo \
             --minify \
             --baseURL ${{ steps.pages.outputs.base_url }}
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
