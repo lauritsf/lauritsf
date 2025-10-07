@@ -4,9 +4,12 @@ title = "Home"
 
 ## About me
 
-I'm a PhD candidate in Applied Mathematics and Computer Science at the Technical University of Denmark, specifically within the [Cognitive Systems](https://www.compute.dtu.dk/sections/cogsys) section. My research focuses on the development of [Bayesian neural networks for molecular discovery](https://datascience.novonordiskfonden.dk/projects/bayesian-neural-networks-for-molecular-discovery/).
+I'm a PhD candidate in Applied Mathematics and Computer Science at the Technical University of Denmark, specifically within the [Cognitive Systems](https://www.compute.dtu.dk/sections/cogsys) section. 
+My research is part of the [Bayesian neural networks for molecular discovery](https://datascience.novonordiskfonden.dk/projects/bayesian-neural-networks-for-molecular-discovery/) project.
 
 I started my PhD, titled "Uncertainty Quantification for Graph Neural Networks", in September 2023, and I'm supervised by [Mikkel N. Schmidt](http://www.mikkelschmidt.dk/) (main supervisor) and [Michael Riis Andersen](https://orbit.dtu.dk/en/persons/michael-riis-andersen) (co-supervisor).
+
+From October 2025 to March 2026, I am a visiting researcher at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/) in Tokyo, hosted by [Prof. Mahito Sugiyama](https://mahito.nii.ac.jp/).
 
 ### Research interests
 
@@ -17,6 +20,26 @@ My research focuses on **uncertainty quantification for graph neural networks (G
 * **Uncertainty Quantification in Graph Neural Networks:** GNNs excel at capturing complex relationships, but how can we effectively quantify their uncertainty? Can we leverage their unique architectural properties to develop novel uncertainty estimation techniques?
 * **Learning with Limited Labeled Data:**  Labeled molecule data is often scarce. How can we leverage unlabeled data, related modalities (e.g., omics, images, text), and prior knowledge to improve model performance?
 * **Integrating Machine Learning with Experimentation:** How can we effectively integrate machine learning models into the experimental workflow ("lab-in-a-loop") to accelerate the discovery process?
+
+### Publications
+
+* **Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus**  
+Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt.  
+*NeurIPS 2025 Workshop: AI for Materials Science (AI4Mat) (Accepted).*
+
+* **On Joint Regularization and Calibration in Deep Ensembles Laurits Fredsgaard, Mikkel N. Schmidt.**  
+**Laurits Fredsgaard**, Mikkel N. Schmidt  
+*Transactions on Machine Learning Research (TMLR), 2025. (Accepted).*  
+
+* **Capsid-like particles decorated with the SARS-CoV-2 receptor-binding domain elicit strong virus neutralization activity**  
+C. Fougeroux, ..., **Laurits Fredsgaard** et al.  
+*Nature Communications, 2021.*  
+[Publisher](https://www.nature.com/articles/s41467-020-20251-8)
+
+* **Head-to-head comparison of modular vaccines developed using different capsid virus-like particle backbones and antigen conjugation systems**  
+**Laurits Fredsgaard** et al.  
+*MDPI Vaccines, 2021.*  
+[Publisher](https://www.mdpi.com/2076-393X/9/6/539)
 
 ### Background
 
