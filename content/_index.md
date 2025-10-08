@@ -27,7 +27,7 @@ My research focuses on **uncertainty quantification for graph neural networks (G
 Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt.  
 *NeurIPS 2025 Workshop: AI for Accelerated Materials Design (AI4Mat) (Accepted).*
 
-* **On Joint Regularization and Calibration in Deep Ensembles Laurits Fredsgaard, Mikkel N. Schmidt.**  
+* **On Joint Regularization and Calibration in Deep Ensembles**  
 **Laurits Fredsgaard**, Mikkel N. Schmidt  
 *Transactions on Machine Learning Research (TMLR), 2025. (Accepted).*  
 
