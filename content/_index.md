@@ -23,23 +23,23 @@ My research focuses on **uncertainty quantification for graph neural networks (G
 
 ### Publications
 
-* **Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus**  
-Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt.  
-*NeurIPS 2025 Workshop: AI for Accelerated Materials Design (AI4Mat) (Accepted).*
+* **Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus**
+  Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt.  
+  *NeurIPS 2025 Workshop: [AI for Accelerated Materials Design (AI4Mat)](https://sites.google.com/view/ai4mat/home) (Accepted).*
+  *EurIPS 2025 Workshop: [SIMBIOCHEM](https://www.simbiochem.com/) (Accepted).*
 
-* **On Joint Regularization and Calibration in Deep Ensembles**  
-**Laurits Fredsgaard**, Mikkel N. Schmidt  
-*Transactions on Machine Learning Research (TMLR), 2025. (Accepted).*  
+* **On Joint Regularization and Calibration in Deep Ensembles**
+  **Laurits Fredsgaard**, Mikkel N. Schmidt  
+  *Transactions on Machine Learning Research (TMLR), 2025.* [OpenReview](https://openreview.net/forum?id=6xqV7DP3Ep) | [PDF](https://openreview.net/pdf?id=6xqV7DP3Ep)
 
-* **Capsid-like particles decorated with the SARS-CoV-2 receptor-binding domain elicit strong virus neutralization activity**  
-C. Fougeroux, ..., **Laurits Fredsgaard** et al.  
-*Nature Communications, 2021.*  
-[Publisher](https://www.nature.com/articles/s41467-020-20251-8)
+* **Capsid-like particles decorated with the SARS-CoV-2 receptor-binding domain elicit strong virus neutralization activity**
+  C. Fougeroux, ..., **Laurits Fredsgaard** et al.  
+  *Nature Communications, 2021.* [Article](https://www.nature.com/articles/s41467-020-20251-8)
 
-* **Head-to-head comparison of modular vaccines developed using different capsid virus-like particle backbones and antigen conjugation systems**  
-**Laurits Fredsgaard** et al.  
-*MDPI Vaccines, 2021.*  
-[Publisher](https://www.mdpi.com/2076-393X/9/6/539)
+* **Head-to-head comparison of modular vaccines developed using different capsid virus-like particle backbones and antigen conjugation systems**
+  **Laurits Fredsgaard** et al.  
+  *MDPI Vaccines, 2021.* [Article](https://www.mdpi.com/2076-393X/9/6/539)
+
 
 ### Background
 
