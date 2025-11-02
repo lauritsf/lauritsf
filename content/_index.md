@@ -37,9 +37,8 @@ My research focuses on **uncertainty quantification for graph neural networks (G
   *Nature Communications, 2021.* [Article](https://www.nature.com/articles/s41467-020-20251-8)
 
 * **Head-to-head comparison of modular vaccines developed using different capsid virus-like particle backbones and antigen conjugation systems** \
-  **Laurits Fredsgaard** et al.  
+  **Laurits Fredsgaard**, Louise Goksøyr, Susan Thrane, Kara-Lee Aves, Thor G. Theander, Adam F. Sander  
   *MDPI Vaccines, 2021.* [Article](https://www.mdpi.com/2076-393X/9/6/539)
-
 
 
 ### Background
