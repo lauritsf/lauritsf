@@ -23,11 +23,6 @@ My research focuses on **uncertainty quantification for graph neural networks (G
 
 ### Publications
 
-* **Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus** \
-  Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt.  
-  *NeurIPS 2025 Workshop: [AI for Accelerated Materials Design (AI4Mat)](https://sites.google.com/view/ai4mat/home) (Accepted).*
-  *EurIPS 2025 Workshop: [SIMBIOCHEM](https://www.simbiochem.com/) (Accepted).*
-
 * **On Joint Regularization and Calibration in Deep Ensembles** \
   **Laurits Fredsgaard**, Mikkel N. Schmidt  
   *Transactions on Machine Learning Research (TMLR), 2025.* [OpenReview](https://openreview.net/forum?id=6xqV7DP3Ep) | [PDF](https://openreview.net/pdf?id=6xqV7DP3Ep)
@@ -40,6 +35,14 @@ My research focuses on **uncertainty quantification for graph neural networks (G
   **Laurits Fredsgaard**, Louise Goksøyr, Susan Thrane, Kara-Lee Aves, Thor G. Theander, Adam F. Sander  
   *MDPI Vaccines, 2021.* [Article](https://www.mdpi.com/2076-393X/9/6/539)
 
+### Workshops & Preprints
+
+* **Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus** \
+  Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt.  
+  *Accepted at:*
+  * *NeurIPS 2025 Workshop: AI for Accelerated Materials Design (AI4Mat) (Poster).* [OpenReview](https://openreview.net/forum?id=hk6iX4mg3B) | [PDF](https://openreview.net/pdf?id=hk6iX4mg3B)
+  * *ELLIS 2025 Workshop: [ML4Molecules](https://moleculediscovery.github.io/workshop2025/).*
+  * *EurIPS 2025 Workshop: [SIMBIOCHEM](https://www.simbiochem.com/).*
 
 ### Background
 
