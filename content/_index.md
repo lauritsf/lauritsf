@@ -24,8 +24,8 @@ My research focuses on **uncertainty quantification for graph neural networks (G
 ### Publications
 
 * **On Joint Regularization and Calibration in Deep Ensembles** \
-  **Laurits Fredsgaard**, Mikkel N. Schmidt  
-  *Transactions on Machine Learning Research (TMLR), 2025.* [OpenReview](https://openreview.net/forum?id=6xqV7DP3Ep) | [PDF](https://openreview.net/pdf?id=6xqV7DP3Ep)
+  **Laurits Fredsgaard**, Mikkel N. Schmidt \
+  *Transactions on Machine Learning Research (TMLR), 2025.* [arXiv](https://arxiv.org/abs/2511.04160) | [OpenReview](https://openreview.net/forum?id=6xqV7DP3Ep) | [PDF](https://openreview.net/pdf?id=6xqV7DP3Ep)
 
 * **Capsid-like particles decorated with the SARS-CoV-2 receptor-binding domain elicit strong virus neutralization activity** \
   C. Fougeroux, ..., **Laurits Fredsgaard** et al.  
