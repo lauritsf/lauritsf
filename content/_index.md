@@ -41,8 +41,8 @@ My research focuses on **uncertainty quantification for graph neural networks (G
   Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt.  
   *Accepted at:*
   * *NeurIPS 2025 Workshop: AI for Accelerated Materials Design (AI4Mat) (Poster).* [OpenReview](https://openreview.net/forum?id=hk6iX4mg3B) | [PDF](https://openreview.net/pdf?id=hk6iX4mg3B)
-  * *ELLIS 2025 Workshop: [ML4Molecules](https://moleculediscovery.github.io/workshop2025/).*
-  * *EurIPS 2025 Workshop: [SIMBIOCHEM](https://www.simbiochem.com/).*
+  * *ELLIS 2025 Workshop: [ML4Molecules](https://moleculediscovery.github.io/workshop2025/) (Oral & Poster).*
+  * *EurIPS 2025 Workshop: [SIMBIOCHEM](https://www.simbiochem.com/) (Poster).*
 
 ### Background
 
