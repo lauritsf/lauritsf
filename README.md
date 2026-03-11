@@ -2,7 +2,7 @@
 
 I'm a PhD student at DTU Compute, Technical University of Denmark, focusing on Uncertainty Quantification for Graph Neural Networks.
 
-I am currently a visiting researcher at the National Institute of Informatics (NII) in Tokyo (Oct 2025 - Mar 2026), collaborating with [Prof. Mahito Sugiyama](https://mahito.nii.ac.jp/) to explore the geometric properties of deep ensembles.
+I am currently a visiting researcher at the National Institute of Informatics (NII) in Tokyo (Oct 2025 - Mar 2026), collaborating with [Prof. Mahito Sugiyama](https://mahito.nii.ac.jp/) to explore the calibration and order-sensitivity of autoregressive graph generators.
 
 My research revolves around Bayesian Neural Networks and their applications in Molecular Discovery. Previously, I've worked extensively in Molecular Biomedicine, and I'm keen on leveraging this background to bridge the gap between life sciences and advanced computation.
 
