@@ -38,9 +38,9 @@ My research focuses on **uncertainty quantification for graph neural networks (G
 ### Workshops & Preprints
 
 * **Same Graph, Different Likelihoods: Calibration of Autoregressive Graph Generators via Permutation-Equivalent Encodings** \
-  **Laurits Fredsgaard**, Aaron Thomas, Michael Riis Andersen, Mikkel N. Schmidt, Mahito Sugiyama.  
-  *Accepted at:*
-  * *AISTATS 2026 Workshop: Calibration for Modern AI. [Workshop Website](https://calibration-workshop.github.io/) (Poster).*
+  **Laurits Fredsgaard**, Aaron Thomas, Michael Riis Andersen, Mikkel N. Schmidt, Mahito Sugiyama. \
+  *Accepted at:*
+  * *AISTATS 2026 Workshop: Calibration for Modern AI (Poster).* [Workshop Website](https://calibration-workshop.github.io/)
 
 * **Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus** \
   Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt.  
