@@ -1,11 +1,9 @@
 **Hi there, I'm Laurits** 👋
 
-I'm a PhD student at DTU Compute, Technical University of Denmark, focusing on Uncertainty Quantification for Graph Neural Networks.
+I'm a PhD student at DTU Compute, Technical University of Denmark, focusing on Uncertainty Quantification for Graph Neural Networks. I'll be wrapping up my PhD in mid-September 2026.
 
-I am currently a visiting researcher at the National Institute of Informatics (NII) in Tokyo (Oct 2025 - Mar 2026), collaborating with [Prof. Mahito Sugiyama](https://mahito.nii.ac.jp/) to explore the calibration and order-sensitivity of autoregressive graph generators.
-
-My research revolves around Bayesian Neural Networks and their applications in Molecular Discovery. Previously, I've worked extensively in Molecular Biomedicine, and I'm keen on leveraging this background to bridge the gap between life sciences and advanced computation.
+My PhD applies Bayesian deep learning and GNNs to molecular discovery, but the methods are general, and I'm just as interested in applying them to other domains. I also have a background in molecular biomedicine.
 
 You can find more details about my work and publications on my personal website: [laurits.me](https://laurits.me/).
 
-Feel free to reach out if you have a question or an opportunity in mind. I'm always open for a chat.
+I'm currently figuring out what comes next after the PhD. Feel free to reach out if you have an opportunity in mind, a question, or just want to chat.
