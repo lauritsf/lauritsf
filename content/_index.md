@@ -4,24 +4,17 @@ title = "Home"
 
 ## About me
 
-I'm a PhD candidate in Applied Mathematics and Computer Science at the Technical University of Denmark, specifically within the [Cognitive Systems](https://www.compute.dtu.dk/sections/cogsys) section. 
-My research is part of the [Bayesian neural networks for molecular discovery](https://datascience.novonordiskfonden.dk/projects/bayesian-neural-networks-for-molecular-discovery/) project.
+I'm a PhD student in Applied Mathematics and Computer Science at the Technical University of Denmark, in the [Cognitive Systems](https://www.compute.dtu.dk/sections/cogsys) section. My research is part of the [Bayesian neural networks for molecular discovery](https://datascience.novonordiskfonden.dk/projects/bayesian-neural-networks-for-molecular-discovery/) project, supervised by [Mikkel N. Schmidt](http://www.mikkelschmidt.dk/) and [Michael Riis Andersen](https://orbit.dtu.dk/en/persons/michael-riis-andersen).
 
-I started my PhD, titled "Uncertainty Quantification for Graph Neural Networks", in September 2023, and I'm supervised by [Mikkel N. Schmidt](http://www.mikkelschmidt.dk/) (main supervisor) and [Michael Riis Andersen](https://orbit.dtu.dk/en/persons/michael-riis-andersen) (co-supervisor).
+What I enjoy most is developing solutions to complex problems. That might mean investigating how to properly train deep ensembles ([TMLR 2025](https://arxiv.org/abs/2511.04160)), or how to train them efficiently on distributed hardware ([torch-distributed-ensemble](https://github.com/lauritsf/torch-distributed-ensemble)). It might mean comprehensively benchmarking which uncertainty quantification methods work best for graph neural networks, so that molecular discovery pipelines can support reliable lab-in-a-loop decision making. These problems usually get interesting at scale, where methods that look clean on toy benchmarks often fall apart.
 
-From October 2025 to March 2026, I was a visiting researcher at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/) in Tokyo, hosted by [Prof. Mahito Sugiyama](https://mahito.nii.ac.jp/).
+From October 2025 to March 2026, I was a visiting researcher at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/) in Tokyo, hosted by [Prof. Mahito Sugiyama](https://mahito.nii.ac.jp/), where I worked on calibration of autoregressive graph generators.
 
-### Research interests
+## What's next
 
-My research focuses on **uncertainty quantification for graph neural networks (GNNs)** applied to molecular discovery. I aim to develop reliable machine learning models that can accelerate the development of new medicines. I am broadly interested in:
+I'll hand in my PhD thesis in mid-September 2026 and am looking for hybrid research-applied ML roles in Copenhagen. I'm most interested in teams doing cutting-edge work where the methods have to deliver. If that sounds like your team, please get in touch.
 
-* **Efficient Deep Ensembles:** Deep ensembles are highly effective for uncertainty quantification, but their computational cost can be prohibitive. How can we develop more efficient ensemble methods?
-* **Scalable and Performant Bayesian Neural Networks:** Bayesian neural networks offer a principled approach to uncertainty estimation, but scaling them to large datasets and complex models remains a challenge. How can we improve their scalability and performance?
-* **Uncertainty Quantification in Graph Neural Networks:** GNNs excel at capturing complex relationships, but how can we effectively quantify their uncertainty? Can we leverage their unique architectural properties to develop novel uncertainty estimation techniques?
-* **Learning with Limited Labeled Data:**  Labeled molecule data is often scarce. How can we leverage unlabeled data, related modalities (e.g., omics, images, text), and prior knowledge to improve model performance?
-* **Integrating Machine Learning with Experimentation:** How can we effectively integrate machine learning models into the experimental workflow ("lab-in-a-loop") to accelerate the discovery process?
-
-### Publications
+## Publications
 
 * **Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus** \
   Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt \
@@ -43,7 +36,7 @@ My research focuses on **uncertainty quantification for graph neural networks (G
   **Laurits Fredsgaard**, Louise Goksøyr, Susan Thrane, Kara-Lee Aves, Thor G. Theander, Adam F. Sander  
   *MDPI Vaccines, 2021.* [Article](https://www.mdpi.com/2076-393X/9/6/539)
 
-### Workshops & Preprints
+## Workshops & Preprints
 
 * **Same Graph, Different Likelihoods: Calibration of Autoregressive Graph Generators via Permutation-Equivalent Encodings** \
   **Laurits Fredsgaard**, Aaron Thomas, Michael Riis Andersen, Mikkel N. Schmidt, Mahito Sugiyama. \
@@ -51,10 +44,10 @@ My research focuses on **uncertainty quantification for graph neural networks (G
   *Accepted at:*
   * *AISTATS 2026 Workshop: Calibration for Modern AI (Poster).* [Workshop Website](https://calibration-workshop.github.io/)
 
-### Background
+## Background
 
-I have a dual background in life science and computer science, holding degrees in both *Molecular Biomedicine* and *Machine Learning & Data Science* from the University of Copenhagen.
+I came to ML from a life-science background, holding degrees in both *Molecular Biomedicine* and *Machine Learning & Data Science* from the University of Copenhagen.
 
-My experimental research focused on virology and vaccine design. I studied the Hepatitis C Virus at [Osaka University's RIMD](https://www.biken.osaka-u.ac.jp/en/) under [Yoshiharu Matsuura](https://www.biken.osaka-u.ac.jp/en/researchers/detail/6) (2017) and for my bachelor's project at Hvidovre Hospital with [Jens Bukh](https://scholar.google.dk/citations?user=ebaj2BQAAAAJ) (2018). Subsequently, my master's thesis (2018-2020) in [Adam Sander's lab](https://cmp.ku.dk/research/vlpvac-team/) centered on cVLP-based vaccines, where I supported the preclinical development of the ABNCoV2 COVID-19 vaccine, which has since proven highly successful in clinical trials.
+My earlier research was in virology and vaccine design. I studied the Hepatitis C Virus at [Osaka University's RIMD](https://www.biken.osaka-u.ac.jp/en/) under [Yoshiharu Matsuura](https://www.biken.osaka-u.ac.jp/en/researchers/detail/6) (2017) and for my bachelor's project at Hvidovre Hospital with [Jens Bukh](https://scholar.google.dk/citations?user=ebaj2BQAAAAJ) (2018). My master's thesis (2018-2020) in [Adam Sander's lab](https://cmp.ku.dk/research/vlpvac-team/) supported preclinical development of the ABNCoV2 COVID-19 vaccine, which has since proven highly successful in clinical trials.
 
-My transition towards computational work includes my role as a student bioinformatician at [LEO Pharma](https://www.leo-pharma.com/), where I built data analysis pipelines for omics data. For my final project in Machine Learning (2022-2023), I had the opportunity to work with [Wouter Boomsma](https://scholar.google.dk/citations?user=EwqU_jsAAAAJ) on deep learning models for protein sequences and structures.
+I shifted toward computation as a student bioinformatician at [LEO Pharma](https://www.leo-pharma.com/), where I built data analysis pipelines for omics data. For my final project in Machine Learning (2022-2023), I worked with [Wouter Boomsma](https://scholar.google.dk/citations?user=EwqU_jsAAAAJ) on deep learning models for protein sequences and structures.
