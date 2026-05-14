@@ -9,7 +9,7 @@ My research is part of the [Bayesian neural networks for molecular discovery](ht
 
 I started my PhD, titled "Uncertainty Quantification for Graph Neural Networks", in September 2023, and I'm supervised by [Mikkel N. Schmidt](http://www.mikkelschmidt.dk/) (main supervisor) and [Michael Riis Andersen](https://orbit.dtu.dk/en/persons/michael-riis-andersen) (co-supervisor).
 
-From October 2025 to March 2026, I am a visiting researcher at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/) in Tokyo, hosted by [Prof. Mahito Sugiyama](https://mahito.nii.ac.jp/).
+From October 2025 to March 2026, I was a visiting researcher at the [National Institute of Informatics (NII)](https://www.nii.ac.jp/en/) in Tokyo, hosted by [Prof. Mahito Sugiyama](https://mahito.nii.ac.jp/).
 
 ### Research interests
 
@@ -22,6 +22,14 @@ My research focuses on **uncertainty quantification for graph neural networks (G
 * **Integrating Machine Learning with Experimentation:** How can we effectively integrate machine learning models into the experimental workflow ("lab-in-a-loop") to accelerate the discovery process?
 
 ### Publications
+
+* **Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus** \
+  Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt \
+  *International Conference on Machine Learning (ICML), 2026.* \
+  *Earlier versions presented at:*
+  * *NeurIPS 2025 Workshop: AI for Accelerated Materials Design (AI4Mat) (Poster).* [OpenReview](https://openreview.net/forum?id=hk6iX4mg3B) | [PDF](https://openreview.net/pdf?id=hk6iX4mg3B)
+  * *ELLIS 2025 Workshop: [ML4Molecules](https://moleculediscovery.github.io/workshop2025/) (Oral & Poster).*
+  * *EurIPS 2025 Workshop: [SIMBIOCHEM](https://www.simbiochem.com/) (Poster).*
 
 * **On Joint Regularization and Calibration in Deep Ensembles** \
   **Laurits Fredsgaard**, Mikkel N. Schmidt \
@@ -39,15 +47,9 @@ My research focuses on **uncertainty quantification for graph neural networks (G
 
 * **Same Graph, Different Likelihoods: Calibration of Autoregressive Graph Generators via Permutation-Equivalent Encodings** \
   **Laurits Fredsgaard**, Aaron Thomas, Michael Riis Andersen, Mikkel N. Schmidt, Mahito Sugiyama. \
+  [arXiv](https://arxiv.org/abs/2604.05613) | [Code](https://github.com/lauritsf/linearization-uncertainty) \
   *Accepted at:*
   * *AISTATS 2026 Workshop: Calibration for Modern AI (Poster).* [Workshop Website](https://calibration-workshop.github.io/)
-
-* **Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus** \
-  Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt.  
-  *Accepted at:*
-  * *NeurIPS 2025 Workshop: AI for Accelerated Materials Design (AI4Mat) (Poster).* [OpenReview](https://openreview.net/forum?id=hk6iX4mg3B) | [PDF](https://openreview.net/pdf?id=hk6iX4mg3B)
-  * *ELLIS 2025 Workshop: [ML4Molecules](https://moleculediscovery.github.io/workshop2025/) (Oral & Poster).*
-  * *EurIPS 2025 Workshop: [SIMBIOCHEM](https://www.simbiochem.com/) (Poster).*
 
 ### Background
 
