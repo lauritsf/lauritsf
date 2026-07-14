@@ -39,10 +39,10 @@ I'll hand in my PhD thesis in mid-September 2026 and am looking for hybrid resea
 ## Workshops & Preprints
 
 * **Same Graph, Different Likelihoods: Calibration of Autoregressive Graph Generators via Permutation-Equivalent Encodings** \
-  **Laurits Fredsgaard**, Aaron Thomas, Michael Riis Andersen, Mikkel N. Schmidt, Mahito Sugiyama. \
+  **Laurits Fredsgaard**, Aaron Thomas, Michael Riis Andersen, Mikkel N. Schmidt, Mahito Sugiyama \
   [arXiv](https://arxiv.org/abs/2604.05613) | [Code](https://github.com/lauritsf/linearization-uncertainty) \
   *Accepted at:*
-  * *AISTATS 2026 Workshop: Calibration for Modern AI (Poster).* [Workshop Website](https://calibration-workshop.github.io/)
+  * *AISTATS 2026 Workshop: [Calibration for Modern AI](https://calibration-workshop.github.io/) (Poster).* [OpenReview](https://openreview.net/forum?id=2fsVKyHxca) | [PDF](https://openreview.net/pdf?id=2fsVKyHxca)
 
 ## Background
 
