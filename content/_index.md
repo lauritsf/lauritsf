@@ -18,7 +18,7 @@ I'll hand in my PhD thesis in mid-September 2026 and am looking for hybrid resea
 
 * **Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus** \
   Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt \
-  *International Conference on Machine Learning (ICML), 2026.* \
+  *International Conference on Machine Learning (ICML), 2026.* [OpenReview](https://openreview.net/forum?id=TIdOvVntmx) | [PDF](https://openreview.net/pdf?id=TIdOvVntmx) | [ICML](https://icml.cc/virtual/2026/poster/63835) \
   *Earlier versions presented at:*
   * *NeurIPS 2025 Workshop: AI for Accelerated Materials Design (AI4Mat) (Poster).* [OpenReview](https://openreview.net/forum?id=hk6iX4mg3B) | [PDF](https://openreview.net/pdf?id=hk6iX4mg3B)
   * *ELLIS 2025 Workshop: [ML4Molecules](https://moleculediscovery.github.io/workshop2025/) (Oral & Poster).*
