@@ -18,7 +18,8 @@ I'll hand in my PhD thesis in mid-September 2026 and am looking for hybrid resea
 
 * **Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus** \
   Rasmus H. Tirsgaard, **Laurits Fredsgaard**, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt \
-  *International Conference on Machine Learning (ICML), 2026.* [OpenReview](https://openreview.net/forum?id=TIdOvVntmx) | [PDF](https://openreview.net/pdf?id=TIdOvVntmx) | [ICML](https://icml.cc/virtual/2026/poster/63835) \
+  *International Conference on Machine Learning (ICML), 2026.* \
+  [arXiv](https://arxiv.org/abs/2607.28304) | [OpenReview](https://openreview.net/forum?id=TIdOvVntmx) | [PDF](https://openreview.net/pdf?id=TIdOvVntmx) | [ICML](https://icml.cc/virtual/2026/poster/63835) \
   *Earlier versions presented at:*
   * *NeurIPS 2025 Workshop: AI for Accelerated Materials Design (AI4Mat) (Poster).* [OpenReview](https://openreview.net/forum?id=hk6iX4mg3B) | [PDF](https://openreview.net/pdf?id=hk6iX4mg3B)
   * *ELLIS 2025 Workshop: [ML4Molecules](https://moleculediscovery.github.io/workshop2025/) (Oral & Poster).*
@@ -26,15 +27,18 @@ I'll hand in my PhD thesis in mid-September 2026 and am looking for hybrid resea
 
 * **On Joint Regularization and Calibration in Deep Ensembles** \
   **Laurits Fredsgaard**, Mikkel N. Schmidt \
-  *Transactions on Machine Learning Research (TMLR), 2025.* [arXiv](https://arxiv.org/abs/2511.04160) | [OpenReview](https://openreview.net/forum?id=6xqV7DP3Ep) | [PDF](https://openreview.net/pdf?id=6xqV7DP3Ep)
+  *Transactions on Machine Learning Research (TMLR), 2025.* \
+  [arXiv](https://arxiv.org/abs/2511.04160) | [OpenReview](https://openreview.net/forum?id=6xqV7DP3Ep) | [PDF](https://openreview.net/pdf?id=6xqV7DP3Ep)
 
 * **Capsid-like particles decorated with the SARS-CoV-2 receptor-binding domain elicit strong virus neutralization activity** \
   C. Fougeroux, ..., **Laurits Fredsgaard** et al.  
-  *Nature Communications, 2021.* [Article](https://www.nature.com/articles/s41467-020-20251-8)
+  *Nature Communications, 2021.* \
+  [Article](https://www.nature.com/articles/s41467-020-20251-8)
 
 * **Head-to-head comparison of modular vaccines developed using different capsid virus-like particle backbones and antigen conjugation systems** \
   **Laurits Fredsgaard**, Louise Goksøyr, Susan Thrane, Kara-Lee Aves, Thor G. Theander, Adam F. Sander  
-  *MDPI Vaccines, 2021.* [Article](https://www.mdpi.com/2076-393X/9/6/539)
+  *MDPI Vaccines, 2021.* \
+  [Article](https://www.mdpi.com/2076-393X/9/6/539)
 
 ## Workshops & Preprints
 
