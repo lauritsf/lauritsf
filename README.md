@@ -1,9 +1,19 @@
-**Hi there, I'm Laurits** 👋
+# Laurits Fredsgaard Larsen
 
-I'm a PhD student at DTU Compute, Technical University of Denmark, focusing on Uncertainty Quantification for Graph Neural Networks. I'll be wrapping up my PhD in mid-September 2026.
+I develop, train, and evaluate machine-learning models for molecular and biological
+research. My work includes molecular representation learning, uncertainty
+quantification, and distributed training with PyTorch and JAX.
 
-My PhD applies Bayesian deep learning and GNNs to molecular discovery, but the methods are general, and I'm just as interested in applying them to other domains. I also have a background in molecular biomedicine.
+I am a postdoctoral researcher at DTU Compute through the end of 2026. My PhD
+thesis, *Uncertainty and Evaluation in Molecular Machine Learning*, is submitted,
+and I am awaiting my defense.
 
-You can find more details about my work and publications on my personal website: [laurits.me](https://laurits.me/).
+I hold degrees in Machine Learning & Data Science and Molecular Biomedicine.
+My experience includes experimental work on vaccine antigens and scientific
+software development at LEO Pharma.
 
-I'm currently figuring out what comes next after the PhD. Feel free to reach out if you have an opportunity in mind, a question, or just want to chat.
+I am interested in ML scientist and research engineer roles in Copenhagen.
+
+[Work and publications](https://laurits.me/) ·
+[LinkedIn](https://www.linkedin.com/in/lauritsfredsgaard) ·
+[Email](mailto:contact@laurits.me)

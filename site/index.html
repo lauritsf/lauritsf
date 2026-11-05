@@ -1,0 +1,202 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Laurits Fredsgaard Larsen</title>
+  <meta name="description" content="Laurits Fredsgaard Larsen works on machine learning for molecular and biological research, with experience in model evaluation, uncertainty quantification, and distributed training.">
+  <link rel="canonical" href="https://laurits.me/">
+  <meta property="og:title" content="Laurits Fredsgaard Larsen">
+  <meta property="og:description" content="Laurits Fredsgaard Larsen works on machine learning for molecular and biological research, with experience in model evaluation, uncertainty quantification, and distributed training.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://laurits.me/">
+  <meta property="og:site_name" content="Laurits Fredsgaard Larsen">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/css/site.css?v=20261105-final">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <header class="site-header shell">
+    <p class="site-name">Laurits Fredsgaard Larsen</p>
+  </header>
+  <main tabindex="-1" id="main-content" class="shell">
+    <section class="intro" aria-labelledby="intro-title">
+      <h1 id="intro-title">Machine learning for molecular and biological research.</h1>
+      <p class="intro-copy">I develop, train, and evaluate machine-learning models, with recent work on molecular representation learning and bioassay-supervised pretraining.</p>
+      <div class="intro-context">
+        <p>I am a postdoctoral researcher at DTU Compute through the end of 2026. My PhD thesis is submitted, and I am awaiting my defense.</p>
+        <p>I am interested in ML scientist and research engineer roles in Copenhagen.</p>
+        <nav class="profile-links" aria-label="Contact and profiles">
+          <a href="mailto:contact@laurits.me">Email ↗</a>
+          <a href="https://github.com/lauritsf">GitHub ↗</a>
+          <a href="https://www.linkedin.com/in/lauritsfredsgaard">LinkedIn ↗</a>
+        </nav>
+      </div>
+    </section>
+    <section class="topic-group" id="molecular" aria-labelledby="molecular-title">
+      <h2 class="topic-heading" id="molecular-title">Molecular models &amp; generation</h2>
+      <div class="topic-years">
+        <div class="year-group">
+          <time class="publication-year" datetime="2026">2026</time>
+          <ol class="publication-list">
+            <li class="publication" id="atom-jepa-bio">
+              <article>
+                <h3><a href="https://mjordahn.github.io/atom-jepa-website/atom-jepa-bio.html">Atom-JEPA-Bio</a></h3>
+                <p class="publication__venue">Model contribution</p>
+                <p class="publication__summary">I optimized and ran Atom-JEPA-Bio’s second-stage training on LUMI’s AMD GPUs. We completed ten epochs in about ten hours on four nodes.</p>
+                <p class="publication__links"><a href="https://mjordahn.github.io/atom-jepa-website/atom-jepa-bio.html">Blog post ↗</a> <span aria-hidden="true">/</span> <a href="https://huggingface.co/atom-jepa/atom-jepa">Model ↗</a> <span aria-hidden="true">/</span> <a href="https://github.com/khelverskovp/atom-jepa">Code ↗</a></p>
+              </article>
+            </li>
+            <li class="publication" id="ensemble-consensus">
+              <article>
+                <h3>Semi-Supervised Learning for Molecular Graphs via Ensemble Consensus</h3>
+                <p class="publication__authors">Rasmus H. Tirsgaard, <i>Laurits Fredsgaard</i>, Marisa Wodrich, Mikkel Jordahn, Mikkel N. Schmidt</p>
+                <p class="publication__venue">International Conference on Machine Learning (ICML).</p>
+                <p class="publication__summary">Changing a molecule can change its properties. We use agreement on unlabelled molecules to learn without augmentations, with individual models often outperforming conventional ensembles.</p>
+                <p class="publication__links"><a href="https://arxiv.org/abs/2607.28304">arXiv ↗</a> <span aria-hidden="true">/</span> <a href="https://openreview.net/forum?id=TIdOvVntmx">OpenReview ↗</a> <span aria-hidden="true">/</span> <a href="https://openreview.net/pdf?id=TIdOvVntmx">PDF ↗</a> <span aria-hidden="true">/</span> <a href="https://icml.cc/virtual/2026/poster/63835">ICML ↗</a></p>
+              </article>
+            </li>
+            <li class="publication" id="linearization-uncertainty">
+              <article>
+                <h3><a href="https://arxiv.org/abs/2604.05613">Same Graph, Different Likelihoods: Calibration of Autoregressive Graph Generators via Permutation-Equivalent Encodings</a></h3>
+                <p class="publication__authors"><i>Laurits Fredsgaard</i>, Aaron Thomas, Michael Riis Andersen, Mikkel N. Schmidt, Mahito Sugiyama</p>
+                <p class="publication__venue">AISTATS Workshop: Towards Trustworthy Predictions — Theory and Applications of Calibration for Modern AI.</p>
+                <p class="publication__summary">Using <a href="https://arxiv.org/abs/2502.02216">AutoGraph’s SENT encodings ↗</a>, transformers learn to generate molecular graphs as strings. On QM9, we found that comparing likelihoods across equivalent strings provides a better quality signal than generation likelihood alone.</p>
+                <p class="publication__links"><a href="https://arxiv.org/abs/2604.05613">arXiv ↗</a> <span aria-hidden="true">/</span> <a href="https://openreview.net/forum?id=2fsVKyHxca">OpenReview ↗</a> <span aria-hidden="true">/</span> <a href="https://openreview.net/pdf?id=2fsVKyHxca">PDF ↗</a> <span aria-hidden="true">/</span> <a href="https://github.com/lauritsf/linearization-uncertainty">Code ↗</a> <span aria-hidden="true">/</span> <a href="https://calibration-workshop.github.io/">Workshop ↗</a></p>
+              </article>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </section>
+    <section class="topic-group" id="evaluation" aria-labelledby="evaluation-title">
+      <h2 class="topic-heading" id="evaluation-title">Evaluation &amp; uncertainty</h2>
+      <div class="topic-years">
+        <div class="year-group">
+          <time class="publication-year" datetime="2026">2026</time>
+          <ol class="publication-list">
+            <li class="publication" id="admet-uncertainty">
+              <article>
+                <h3><a href="https://scholar.google.com/citations?view_op=view_citation&amp;user=HjUEfBUAAAAJ&amp;citation_for_view=HjUEfBUAAAAJ:eQOLeE2rZwMC">Calibrated Uncertainty Quantification on TDC ADMET: What Can Be Resolved Across 22 Datasets?</a></h3>
+                <p class="publication__authors"><i>Laurits Fredsgaard</i>, Michael Riis Andersen, Mikkel N. Schmidt</p>
+                <p class="publication__venue">AIDaR Workshop at NeurIPS. Camera-ready version forthcoming.</p>
+                <p class="publication__summary">Across 22 ADMET datasets, we compare eleven calibrated prediction pipelines for accuracy and uncertainty estimates. We test whether the apparent differences between methods hold up across chemical splits, model seeds, and smaller evaluations.</p>
+                <p class="publication__links"><a href="https://scholar.google.com/citations?view_op=view_citation&amp;user=HjUEfBUAAAAJ&amp;citation_for_view=HjUEfBUAAAAJ:eQOLeE2rZwMC">Scholar entry ↗</a> <span aria-hidden="true">/</span> <a href="https://aidar-workshop.github.io/2026/">Workshop ↗</a></p>
+              </article>
+            </li>
+          </ol>
+        </div>
+        <div class="year-group">
+          <time class="publication-year" datetime="2025">2025</time>
+          <ol class="publication-list">
+            <li class="publication" id="ensemble-optimality-gap">
+              <article>
+                <h3><a href="https://openreview.net/forum?id=6xqV7DP3Ep">On Joint Regularization and Calibration in Deep Ensembles</a></h3>
+                <p class="publication__authors"><i>Laurits Fredsgaard</i>, Mikkel N. Schmidt</p>
+                <p class="publication__venue">Transactions on Machine Learning Research (TMLR).</p>
+                <p class="publication__summary">Are we training deep ensembles the right way? Stopping based on joint performance let members train longer and improved ensemble accuracy and predictive likelihood in our experiments.</p>
+                <p class="publication__links"><a href="https://arxiv.org/abs/2511.04160">arXiv ↗</a> <span aria-hidden="true">/</span> <a href="https://openreview.net/forum?id=6xqV7DP3Ep">OpenReview ↗</a> <span aria-hidden="true">/</span> <a href="https://openreview.net/pdf?id=6xqV7DP3Ep">PDF ↗</a> <span aria-hidden="true">/</span> <a href="https://github.com/lauritsf/ensemble-optimality-gap">Code ↗</a></p>
+              </article>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </section>
+    <section class="topic-group" id="training" aria-labelledby="training-title">
+      <h2 class="topic-heading" id="training-title">Training &amp; optimization</h2>
+      <div class="topic-years">
+        <div class="year-group">
+          <time class="publication-year" datetime="2026">2026</time>
+          <ol class="publication-list">
+            <li class="publication" id="icicle">
+              <article>
+                <h3><a href="https://openreview.net/forum?id=czLvGKXBuN">ICICLE: In-Context Inference for Curve-Learning Extrapolation</a></h3>
+                <p class="publication__authors"><i>Laurits Fredsgaard</i>, Michael Riis Andersen, Mikkel N. Schmidt</p>
+                <p class="publication__venue">AXIOM: Foundations of Efficient Deep Learning — NeurIPS Workshop. Camera-ready version forthcoming.</p>
+                <p class="publication__summary">Building on <a href="https://arxiv.org/abs/2310.20447">LC-PFN ↗</a> and <a href="https://arxiv.org/abs/2404.16795">FT-PFN ↗</a>, I developed a model that predicts learning curves to guide which training runs to pause or resume. Its encoder handles varying numbers of hyperparameters without fixed-length padding.</p>
+                <p class="publication__links"><a href="https://openreview.net/forum?id=czLvGKXBuN">OpenReview ↗</a> <span aria-hidden="true">/</span> <a href="https://axiom-neurips2026.github.io/">Workshop ↗</a></p>
+              </article>
+            </li>
+            <li class="publication" id="torch-distributed-ensemble">
+              <article>
+                <h3><a href="https://github.com/lauritsf/torch-distributed-ensemble">torch-distributed-ensemble</a></h3>
+                <p class="publication__venue">Research software</p>
+                <p class="publication__summary">I designed a training setup that keeps ensemble members independent across GPUs while making their joint performance easy to track.</p>
+                <p class="publication__links"><a href="https://github.com/lauritsf/torch-distributed-ensemble">Code ↗</a></p>
+              </article>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </section>
+    <section class="topic-group" id="biology" aria-labelledby="biology-title">
+      <h2 class="topic-heading" id="biology-title">Experimental biology</h2>
+      <div class="topic-years">
+        <div class="year-group">
+          <time class="publication-year" datetime="2021">2021</time>
+          <ol class="publication-list">
+            <li class="publication" id="modular-vaccines">
+              <article>
+                <h3>Head-to-head comparison of modular vaccines developed using different capsid virus-like particle backbones and antigen conjugation systems</h3>
+                <p class="publication__authors"><i>Laurits Fredsgaard</i>, Louise Goksøyr, Susan Thrane, Kara-Lee Aves, Thor G. Theander, Adam F. Sander</p>
+                <p class="publication__venue">Vaccines.</p>
+                <p class="publication__summary">I combined vaccine experiments with quantitative analysis of IgG responses, comparing AP205 and HPV particle backbones and covalent versus affinity-based antigen attachment. This work formed the basis of my MSc thesis.</p>
+                <p class="publication__links"><a href="https://www.mdpi.com/2076-393X/9/6/539">Article ↗</a></p>
+              </article>
+            </li>
+            <li class="publication" id="capsid-sars-cov-2">
+              <article>
+                <h3>Capsid-like particles decorated with the SARS-CoV-2 receptor-binding domain elicit strong virus neutralization activity</h3>
+                <p class="publication__authors">C. Fougeroux, …, <i>Laurits Fredsgaard</i> et al.</p>
+                <p class="publication__venue">Nature Communications.</p>
+                <p class="publication__summary">As part of the vaccine development work, I cloned, expressed, and purified candidate Spike and receptor-binding domain (RBD) antigens using a baculovirus–insect cell system.</p>
+                <p class="publication__links"><a href="https://www.nature.com/articles/s41467-020-20251-8">Article ↗</a></p>
+              </article>
+            </li>
+          </ol>
+        </div>
+      </div>
+    </section>
+    <div class="context" id="experience">
+      <section aria-labelledby="experience-title">
+        <h2 id="experience-title">Scientific applications</h2>
+        <p>At LEO Pharma, I extended an existing Django/React application for omics data and built RNA-seq analysis pipelines, working with domain experts on the tools they needed.</p>
+        <p>For DaSSCo, I created a Python package for printable specimen labels and extended camera-service and GUI software.</p>
+        <p>My research software work also includes multi-node training of interatomic potentials on LUMI.</p>
+      </section>
+      <section aria-labelledby="education-title">
+        <h2 id="education-title">Education &amp; research</h2>
+        <p>MSc and BSc in Molecular Biomedicine, and BSc in Machine Learning &amp; Data Science, University of Copenhagen.</p>
+        <p>My experimental experience includes vaccine antigen cloning, expression, and purification.</p>
+        <p>My submitted PhD thesis is titled “Uncertainty and Evaluation in Molecular Machine Learning”. I am awaiting my defense.</p>
+      </section>
+      <section id="teaching" aria-labelledby="teaching-title">
+        <h2 id="teaching-title">Teaching</h2>
+        <p>Teaching assistant at DTU:</p>
+        <ul class="teaching-list">
+          <li>
+            <a href="https://kurser.dtu.dk/course/02476">MLOps ↗</a>
+            <span class="teaching-dates">January 2024 + 2025</span>
+            <span class="teaching-keywords">Reproducibility · Deployment · Model maintenance</span>
+            <a class="teaching-materials" href="https://skaftenicki.github.io/dtu_mlops/">Course website ↗</a>
+          </li>
+          <li>
+            <a href="https://kurser.dtu.dk/course/02456">Deep Learning ↗</a>
+            <span class="teaching-dates">Autumn 2024</span>
+            <span class="teaching-keywords">Neural networks · Transformers · PyTorch</span>
+          </li>
+          <li>
+            <a href="https://kurser.dtu.dk/course/02460">Advanced Machine Learning ↗</a>
+            <span class="teaching-dates">Spring 2024</span>
+            <span class="teaching-keywords">Generative models · Geometric representations · Graph neural networks</span>
+          </li>
+        </ul>
+      </section>
+    </div>
+  </main>
+  <footer class="shell">
+    <p>© 2026 Laurits Fredsgaard Larsen</p>
+    <nav aria-label="External profiles"><a href="https://scholar.google.com/citations?user=HjUEfBUAAAAJ">Google Scholar ↗</a><a href="https://orcid.org/0000-0003-3891-3414">ORCID ↗</a><a href="mailto:contact@laurits.me">Email ↗</a></nav>
+  </footer>
+</body>
+</html>
